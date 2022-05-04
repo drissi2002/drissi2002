@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @drissi2002 Houcem Eddine Drissi
-- 👀 I’m interested in CS, Maths and all sorts of Art & Culture .
-- 🌱 I’m currently a Computer Science Engineering Student in Tunisia at [ENICarthage](http://www.enicarthage.rnu.tn/) .
-- 📫 Here is my Linkedin : [drissi-houcem-eddine]( https://www.linkedin.com/in/drissi-houcem-eddine/) .
+* 👋 Hi, I’m @drissi2002 Houcem 
+* 🎒 Studying Software Engineering [@ENICarthage](http://www.enicarthage.rnu.tn/)
+* 💼 Previously a Software intern
+* 🤖 Actively working in ML and Web development 
