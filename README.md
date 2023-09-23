@@ -1,3 +1,3 @@
 # Hi, I’m Houcem 
-* 🎒 Studying Computer Science Engineering [@ENICarthage](http://www.enicarthage.rnu.tn/)
-* 🚀 I'm currently a Software Engineer Intern - End of study [@WEVIOO ](https://www.linkedin.com/company/wevioo/) 
+* 🎒 A Computer Science Engineering Student [@ENICarthage](http://www.enicarthage.rnu.tn/)
+* 💻 I'm currently a Software Engineer [@WEVIOO ](https://www.linkedin.com/company/wevioo/) 
